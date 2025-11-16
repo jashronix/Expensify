@@ -43,19 +43,19 @@ It helps users manage income, expenses, budgets, and visualize spending patterns
 ## 🖼️ Screenshots
 
 ### 🔐 Login Page
-![Login](https://github.com/jashronix/Expensify/blob/screenshots/main/Login.png)
+![Login](https://github.com/jashronix/Expensify/blob/main/screenshots/Login.png)
 
 ### 📊 Dashboard
-![Dashboard](https://github.com/jashronix/Expensify/blob/screenshots/main/Dashboard.png)
+![Dashboard](https://github.com/jashronix/Expensify/blob/main/screenshots/Dashboard.png)
 
 ### ➕ Add Transaction
 ![Add Transaction](https://github.com/jashronix/Expensify/blob/main/screenshots/Add-Transaction.png)
 
 ### 📝 Edit Transaction
-![Edit Transaction](https://github.com/jashronix/Expensify/blob/screenshots/main/Edit-Transaction.png)
+![Edit Transaction](https://github.com/jashronix/Expensify/blob/main/screenshots/Edit-Transaction.png)
 
 ### 📈 Analytics
-![Analytics](https://github.com/jashronix/Expensify/blob/screenshots/main/Analytics.png)
+![Analytics](https://github.com/jashronix/Expensify/blob/main/screenshots/Analytics.png)
 
 ## 🛠️ Tech Stack
 
